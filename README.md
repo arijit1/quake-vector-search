@@ -23,6 +23,3 @@ git clone https://github.com/arijit1/quake-vector-search.git
 cd QUAKE_working_demo
 pip install -r requirements.txt
 python run_demo.py
-
-## RESULTS
-<img width="1301" height="516" alt="image" src="https://github.com/user-attachments/assets/f8d88f1c-14f5-4bce-84bf-9ed3e4d7fb1a" />
